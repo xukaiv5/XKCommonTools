@@ -1,0 +1,6 @@
+framework module Pods_XKCommonTools {
+  umbrella header "Pods-XKCommonTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
